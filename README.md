@@ -8,7 +8,7 @@ Plugins I really put effort into: Christmas-Calendar, Halloween, Pillars-of-Fort
 
 Plugins that were given to me for refinement and improvement: ReferralSystem, Cases-System.
 
-Plugins made simply out of boredom without optimization and pretty folder structures: OrbitalStrike
+Plugins made simply out of boredom without optimization and pretty folder structures: OrbitalStrike, Teleport, Social, Kits, PlayerUtils.
 
 ## Let's talk!
 
