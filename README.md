@@ -4,12 +4,6 @@ I'm Vladimir and I'm 18yo. <br>
 Currently working with Minecraft servers <br> 
 and Discord/Telegram bot's.
 
-Plugins I really put effort into: Christmas-Calendar, Halloween, Pillars-of-Fortune.
-
-Plugins that were given to me for refinement and improvement: ReferralSystem, Cases-System.
-
-Plugins made simply out of boredom without optimization and pretty folder structures: OrbitalStrike, Teleport, Social, Kits, PlayerUtils.
-
 ## Let's talk!
 
 <div>
