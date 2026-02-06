@@ -16,7 +16,7 @@ and Discord/Telegram bot's.
     <a href="https://mail.google.com/mail/#sent?compose=lqrsmDrChKdlvXwWwsQQqZpDjhStCcDBmDFGMTwMMpfXBvJhZqxbSFXJZwWVSVMSgpzBVHBpFGmXqlDJK">
         <img src="https://img.shields.io/badge/anyutq1@gmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
     </a> <br>
-    <a href="https://discord.gg/ChTjgTqw3T" target="_blank">
+    <a href="https://discord.gg/ZadT4Erz6Z" target="_blank">
         <img src="https://img.shields.io/badge/Discord Server-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
 </div>
