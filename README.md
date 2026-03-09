@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm Vladimir and I'm 19yo. <br>
-Currently working with WebSites, Hacking Tools <br> 
+Currently working with Minecraft Plugins, WebSites <br> 
 and Discord/Telegram bot's.
 
 ## Let's talk!
