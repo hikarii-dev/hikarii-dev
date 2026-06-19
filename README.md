@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm Vladimir and I'm 19yo. <br>
-Currently working with Minecraft Plugins, WebSites <br> 
+Currently working with CS2 Software, WebSites, Games <br> 
 and Discord/Telegram bot's.
 
 ## Let's talk!
